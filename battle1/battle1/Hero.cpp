@@ -13,6 +13,10 @@ public:
 	{
 		return ultimate;
 	}
+	void chargeUltimate(int amount)
+	{
+		ultimate += amount;
+	}
 private:
 	int ultimate = 0; // 0-100%
 };
