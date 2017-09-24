@@ -1,0 +1,2 @@
+﻿  main.cpp
+c:\users\rblakeman\desktop\cst426\battle4\battle4\main.cpp(9): error C4700: uninitialized local variable 'audioclip' used

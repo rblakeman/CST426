@@ -1,5 +1,2 @@
-Run battle4.exe
-Console waits for input so you can read the output before it quits
-(input does nothing except prevent console from closing immediately).
-
-Source Code files included in folder
+Service Locator Pattern:
+Does not compile, no exe.
